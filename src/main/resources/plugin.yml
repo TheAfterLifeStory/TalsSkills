@@ -1,0 +1,5 @@
+name: TALSSKILLS
+version: ${project.version}
+main: talsskills.talsskills.TALSSKILLS
+prefix: TALS
+description: TALS's own skills
